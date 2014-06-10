@@ -1,0 +1,4 @@
+sdocs
+=====
+
+shared documetions
